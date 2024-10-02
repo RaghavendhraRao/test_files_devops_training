@@ -1,2 +1,2 @@
-Hello world..
-this is my first testing through "Jenkins"
+print("Hello world..")
+print("this is my first testing through "Jenkins"")
